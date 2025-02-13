@@ -2,6 +2,8 @@
 
 A modern and sleek Tic-Tac-Toe game built using **HTML, CSS, and JavaScript** with a **glassmorphism UI**, smooth animations, and an intuitive gameplay experience.
 
+Checkout: https://manas-raj999.github.io/Tic-Tac-Toe/
+
 ## 🚀 Features
 - **Two-Player Mode**: Play against a friend.
 - **Modern UI**: Clean dark-mode theme with neon glowing X and O.
